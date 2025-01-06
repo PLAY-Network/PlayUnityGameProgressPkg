@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <doc>
     <assembly>
-        <name>RGNGameProgress</name>
+        <name>GameProgress</name>
     </assembly>
     <members>
         <member name="T:RGN.Modules.GameProgress.GameProgressModule">
