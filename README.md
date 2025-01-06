@@ -1,2 +1,2 @@
-# RGN GameProgress
-Package version: 0.16.0-dev.3
+# Play SDK GameProgress
+Package version: 0.16.0-dev.4
