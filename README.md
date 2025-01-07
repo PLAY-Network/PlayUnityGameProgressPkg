@@ -1,2 +1,1 @@
-# Play SDK GameProgress
-Package version: 0.16.0-dev.11
+# Play SDK Game Progress
