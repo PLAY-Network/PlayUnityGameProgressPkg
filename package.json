@@ -1,5 +1,5 @@
 ﻿{
-  "name": "io.play.unity.gameprogress",
+  "name": "network.theplay.unity.gameprogress",
   "displayName": "PLAY SDK. Game Progress",
   "version": "0.16.0",
   "unity": "2020.3",
@@ -36,8 +36,8 @@
     }
   ],
   "dependencies": {
-    "io.play.unity.core": "0.16.0",
-    "io.play.unity.userprofile": "0.16.0",
-    "io.play.unity.currency": "0.16.0"
+    "network.theplay.unity.core": "0.16.0",
+    "network.theplay.unity.userprofile": "0.16.0",
+    "network.theplay.unity.currency": "0.16.0"
   }
 }
