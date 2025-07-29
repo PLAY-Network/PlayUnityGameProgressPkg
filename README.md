@@ -1,2 +1,2 @@
 # Play SDK GameProgress
-Package version: 0.16.0-dev.37
+Package version: 0.16.0-dev.38
